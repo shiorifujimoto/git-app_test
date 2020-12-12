@@ -6,6 +6,5 @@ class TestsController < ApplicationController
 
 
     # テスト
-
   end
 end
