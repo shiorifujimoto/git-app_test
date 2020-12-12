@@ -15,7 +15,5 @@ class TestsController < ApplicationController
     #テストC
 
     #テストC
-
-    #間違えて入力
   end
 end
