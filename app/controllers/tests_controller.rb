@@ -8,5 +8,7 @@ class TestsController < ApplicationController
     # テスト
 
     #テスト
+
+    #テストC
   end
 end
