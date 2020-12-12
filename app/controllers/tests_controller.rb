@@ -10,5 +10,8 @@ class TestsController < ApplicationController
     #テストC
 
     #テストC
+    
+    #間違えたところにプッシュ
+
   end
 end
