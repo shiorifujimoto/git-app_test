@@ -15,5 +15,7 @@ class TestsController < ApplicationController
     #テストC
 
     #テストC
+
+    #revertで取り消す
   end
 end
