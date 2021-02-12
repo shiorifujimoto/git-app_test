@@ -15,5 +15,6 @@ class TestsController < ApplicationController
     #テストC
 
     #テストC
+
   end
 end
